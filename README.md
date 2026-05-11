@@ -10,6 +10,8 @@ $ py -m pip install pygame-ce
 ## Run
 ```sh
 $ python main.py
+# 또는
 $ python3 main.py
+# 또는
 $ py main.py
 ```
